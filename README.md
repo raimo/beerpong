@@ -10,4 +10,4 @@ To enjoy asset compilation and [livereload](https://chrome.google.com/webstore/d
 
 # Demo
 
-http://leapmotion.github.io/beer-pong
+http://raimo.github.io/beerpong/#-JgxOoFf3vmaX3IAIDa1
